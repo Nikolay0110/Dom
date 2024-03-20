@@ -1,4 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/nebgpmx32315t6ek?svg=true)](https://ci.appveyor.com/project/Nikolay0110/dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/j9qm7io8i0e3enpg?svg=true)](https://ci.appveyor.com/project/Nikolay0110/dom)
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
