@@ -1,4 +1,2 @@
 import './css/style.css';
-import randomizer from './js/app';
-
-setInterval(randomizer, 1000);
+import MoleGame from "./js/app.js";
