@@ -1,8 +1,6 @@
 export default class MoleGame {
     constructor(fieldSize) {
         this.fieldSize = fieldSize ** 2;
-        this.previousIndex = 0;
-        this.currentIndex = 0;
     }
 
     // создание игрового поля исходя из указанного fieldSize
